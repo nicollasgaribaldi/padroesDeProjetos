@@ -5,3 +5,9 @@ Repositório destinado à atividade TQF - Herança, Polimorfismo e Encapsulament
 |-------------|------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------|
 | **Funcionário** | - matrícula: Integer<br>- nome: String<br>- dataNascimento: date<br>- /endereço: Classe Endereço<br>- /telsContato: Coleção de Telefone<br>- /cargo: Classe Cargo<br>- Salário: real<br>- dataAdmissão: date | - cadastrar<br>- obterIdade<br>- reajustarSalario(percentual: real)<br>- promover(novoCargo: Cargo) |
 | **Cliente**     | - código: String<br>- nome: String<br>- dataNascimento: date<br>- /endereço: Classe Endereço<br>- /telsContato: Coleção de Telefone<br>- /cargo: Classe Cargo<br>- /profissão: Classe Profissão             | - cadastrar<br>- obterIdade<br>- reajustarSalario(percentual: real)<br>- promover(novoCargo: Cargo) | 
+
+Integrantes:
+- Luís Gustavo Maia
+- Heleno Nogueira
+- Nícollas Garibaldi
+- Victor Batista
